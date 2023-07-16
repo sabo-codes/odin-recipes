@@ -3,7 +3,12 @@
     border: 2px solid red;
   }
 
-h1 + img{
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: aliceblue;
+}
+
+img{
     display: block;
     margin: 0 auto;
     width: 100px;
